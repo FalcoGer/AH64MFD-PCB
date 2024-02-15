@@ -19964,8 +19964,8 @@
 		(uuid "0de9eace-b861-463b-8aa8-c0ad823e9cac")
 	)
 	(segment
-		(start 187.724999 61.035002)
-		(end 184.870999 61.035002)
+		(start 147.190685 61.035002)
+		(end 187.724999 61.035002)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 29)
@@ -20258,14 +20258,6 @@
 		(layer "F.Cu")
 		(net 29)
 		(uuid "f5101f3d-a421-4fc5-9d91-d109de1ab6cd")
-	)
-	(segment
-		(start 185.184999 61.035002)
-		(end 147.190685 61.035002)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 29)
-		(uuid "faca36d8-fa89-48da-ad1f-fac012c43d47")
 	)
 	(segment
 		(start 68.284999 112.149002)
